@@ -10,3 +10,6 @@ Welcome to my portfolio of work in data science and machine learning, which incl
 - Languages: Python, html, css
 - Libraries: NumPy, Pandas, scikit-learn, Matplotlib
 - Tools: Jupyter, FASTAPI
+
+2. # Student Prediction Model
+   This project compiles a wide range of information aimed at understanding, analyzing, and predicting depression levels among students. It is designed for research in psychology, data science, and education, providing insights into factors that contribute to student mental health challenges and aiding in the design of early intervention strategies.
