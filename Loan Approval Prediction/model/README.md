@@ -33,3 +33,7 @@ A machine learning model to predict loan approval status based on applicant fina
 ```bash
 git clone https://github.com/yourusername/loan-prediction.git
 cd loan-prediction
+
+
+## Usage
+
